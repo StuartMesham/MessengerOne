@@ -9,7 +9,7 @@ Even though this was just a practice project, I decided to build it performance 
 
 Nothing is saved to disk, all users and messages are stored in memory and dissapear when the server is terminated. I wrote a simple command line client application (in both Kotlin and Java) to test the functionality of the server.
 
-# My thoughts on Kotlin
+# My Thoughts on Kotlin
 I tried to write idiomatic Kotlin code (JetBrains have helpfully put up a list of "idioms" on their website) because I assumed that I would get the most benefit from the language if I used it the way they had designed it to be used. During the course of this short project, I came to like the language. In particular the optional types, encouraged use of constants and the short-hand class definitions made the code much cleaner, easier to write and enforced proper, robust handling of edge cases.
 
 All-in-all it was easy to learn, fun to write and I believe it led to me writing better code. That's a yes from me.
